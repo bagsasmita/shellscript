@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#How to run: script.sh /path_where_to_find
+
 #for file in   *.sh
 for file in `find $1 -type f -a -name "*.sh"`
 do
