@@ -1,0 +1,8 @@
+myfun(){
+
+echo "1st arguement:     $1"
+echo "2nd arguement: $2"
+echo "total arguements: $#"
+echo "list of all arguements: $@"
+}
+
