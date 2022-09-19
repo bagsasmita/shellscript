@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#sample commit remote editing
 #How to run: script.sh /path_where_to_find
 
 #for file in   *.sh
