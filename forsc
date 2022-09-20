@@ -1,0 +1,9 @@
+#for name in mama bibek seli
+#name=($@)
+#for name in ${name[@]}
+
+for name in $@
+do
+echo hi $name
+done
+
